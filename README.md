@@ -1,6 +1,6 @@
-# wipe-server
+# connecthive_server
 
-This is the  backend server of our wipe app.
+This is the  backend server of our connecthive app.
 
 firstly we have to setup .env folder to deploy and push it to live.
 
